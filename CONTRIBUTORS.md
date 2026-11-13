@@ -18,6 +18,7 @@ Halaman ini mencatat seluruh peserta yang telah berhasil menyelesaikan tugas dan
 | 2 | Sulthan Faruq Hasan | [@sfhfrq](https://github.com/sfhfrq) | [submissions/10125009_Sulthan_Faruq_Hasan.md](submissions/10125009_Sulthan_Faruq_Hasan.md) | Verified |
 | 3 | Aditiyahermawan | - | [submissions/240631007_AditiyaHermawan.md](submissions/240631007_AditiyaHermawan.md) | Verified |
 | 4 | Submissions | - | [submissions/submissions](submissions/submissions) | Verified |
+| 5 | Shera Nurfarah Al Funissa | [@sheranurfarahalfunissa-sudo](https://github.com/sheranurfarahalfunissa-sudo) | [submissions/260611006_Shera_Nurfarah_Al_Funissa.md](submissions/260611006_Shera_Nurfarah_Al_Funissa.md) | Verified |
 
 ---
 
