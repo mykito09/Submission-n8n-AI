@@ -15,6 +15,7 @@ Halaman ini mencatat seluruh peserta yang telah berhasil menyelesaikan tugas dan
 | No | Nama Lengkap | Username GitHub | Berkas Submission | Status Verifikasi |
 |:--:|---|---|---|:--:|
 | 1 | David Karuna Guldi | [@hirodav](https://github.com/hirodav) | [submissions/15625002_David_Karuna_Guldi.md](submissions/15625002_David_Karuna_Guldi.md) | Verified |
+| 2 | Sulthan Faruq Hasan | [@sfhfrq](https://github.com/sfhfrq) | [submissions/10125009_Sulthan_Faruq_Hasan.md](submissions/10125009_Sulthan_Faruq_Hasan.md) | Verified |
 
 ---
 
