@@ -22,6 +22,7 @@ Halaman ini mencatat seluruh peserta yang telah berhasil menyelesaikan tugas dan
 | 6 | Syifa Nur Aini | [@cipaaycipuk](https://github.com/cipaaycipuk) | [submissions/260611011_Syifa_Nur_Aini.md](submissions/260611011_Syifa_Nur_Aini.md) | Verified |
 | 7 | Muhammad Rizki Prasetya Adhyarahman | [@mykito09 https://github.com/mykito09](https://github.com/mykito09 https://github.com/mykito09) | [submissions/10126268_MuhammadRizkiPrasetyaAdhyarahman.md](submissions/10126268_MuhammadRizkiPrasetyaAdhyarahman.md) | Verified |
 | 8 | Abiyyu Amanullah | [@abiyyumnllh](https://github.com/abiyyumnllh) | [submissions/1257050052_Abiyyu_Amanullah.md](submissions/1257050052_Abiyyu_Amanullah.md) | Verified |
+| 9 | ZAIDAN SALMAN FIRDAUS | [@salmannfirdausss](https://github.com/salmannfirdausss) | [submissions/10125301_Zaidan_Salman_Firdaus.md](submissions/10125301_Zaidan_Salman_Firdaus.md) | Verified |
 
 ---
 
