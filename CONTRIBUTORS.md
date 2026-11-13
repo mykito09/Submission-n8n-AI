@@ -20,6 +20,7 @@ Halaman ini mencatat seluruh peserta yang telah berhasil menyelesaikan tugas dan
 | 4 | Submissions | - | [submissions/submissions](submissions/submissions) | Verified |
 | 5 | Shera Nurfarah Al Funissa | [@sheranurfarahalfunissa-sudo](https://github.com/sheranurfarahalfunissa-sudo) | [submissions/260611006_Shera_Nurfarah_Al_Funissa.md](submissions/260611006_Shera_Nurfarah_Al_Funissa.md) | Verified |
 | 6 | Syifa Nur Aini | [@cipaaycipuk](https://github.com/cipaaycipuk) | [submissions/260611011_Syifa_Nur_Aini.md](submissions/260611011_Syifa_Nur_Aini.md) | Verified |
+| 7 | Muhammad Rizki Prasetya Adhyarahman | [@mykito09 https://github.com/mykito09](https://github.com/mykito09 https://github.com/mykito09) | [submissions/10126268_MuhammadRizkiPrasetyaAdhyarahman.md](submissions/10126268_MuhammadRizkiPrasetyaAdhyarahman.md) | Verified |
 
 ---
 
